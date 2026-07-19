@@ -1,7 +1,7 @@
 # Cloud Engineering Portfolio Resume (Phase 1)
 
 ## Project Overview
-Welcome to the repository for my cloud-optimized portfolio resume website. This project marks Phase 1 of my transition into Cloud Engineering and serves as the baseline for my **Cloud Resume Challenge** journey. 
+Welcome to the repository for my cloud-optimized [portfolio resume website](https://sharmaankita3387.github.io/cloud-resume/). This project marks Phase 1 of my transition into Cloud Engineering and serves as the baseline for my **Cloud Resume Challenge** journey. 
 
 Before deploying to production cloud environments, this phase establishes a clean, semantic web frontend built completely from scratch to ensure a strong grasp of web architecture fundamentals.
 
